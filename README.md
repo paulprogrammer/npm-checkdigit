@@ -1,4 +1,5 @@
 
+[![Build Status](https://travis-ci.com/paulprogrammer/npm-checkdigit.svg?branch=master)](https://travis-ci.com/paulprogrammer/npm-checkdigit)
 
 Simple library for encoding strings per various barcode standards.
 
