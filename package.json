@@ -15,7 +15,7 @@
 		"node": "^8.11.3"
 	},
 	"scripts": {
-		"test": "node test/*.js"
+		"test": "tape test/*.js"
 	},
 	"author": {
 		"name": "Paul Williams",
