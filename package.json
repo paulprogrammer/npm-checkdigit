@@ -1,0 +1,27 @@
+{
+	"name": "barcode-encode",
+	"version": "0.1.0",
+	"description": "A simple method to encode strings according to various barcode standards",
+	"license": "MIT",
+	"main": "lib/npm-barcode-encode.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/paulprogrammer/npm-checkdigit"
+	},
+	"bin": {
+		"barcode-encode": "barcode-encode.js"
+	},
+	"engines": {
+		"node": "^8.11.3"
+	},
+	"scripts": {
+		"test": "node test/*.js"
+	},
+	"author": {
+		"name": "Paul Williams",
+		"email": "paulprogrammer@gmail.com"
+	},
+	"devDependencies": {
+		"tape": "^4.9.1"
+	}
+}
